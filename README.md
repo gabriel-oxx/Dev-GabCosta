@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel! 👋
+# Olá, eu sou Gabriel, mas Você pode me chamar de Gab. 😄 
 
 Sou um desenvolvedor backend apaixonado por tecnologia e programação.
 🌱
@@ -12,7 +12,6 @@ Atualmente, estou no início de uma jornada incrível de aprendizado e compartil
 
 ## Como me contatar
 
-- Você pode me chamar de Gab. 😄
 - Me mande um [e-mail](gabrielcostainffo@gmail.com) ✉️
 - Me siga no [LinkedIn](https://www.linkedin.com/in/developer-gabriel) 👨‍💻
 ### Vamos conversar sobre...
