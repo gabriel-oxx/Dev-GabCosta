@@ -1,12 +1,26 @@
-- 👋 Olá, eu sou Gabriel!
-- 👀 Me interesso por tecnologia, programação e design.
-- 🌱 Atualmente, estou estudando desenvolvimento Backend com Java e Spring Boot.
-- 💞️ Quero ajudar a criar soluções inovadoras para a comunidade de desenvolvimento de software.
-- 📫 Como me contatar: <EMAIL>.
-- 😄 Você pode me chamar de Gab.
-- ⚡ Fale comigo sobre: Desenvolvimento de software, Java, Spring Boot, Tecnologia, Programação.
+# Olá, eu sou Gabriel! 👋
 
-<!---
-Dev-GabCosta/Dev-GabCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um desenvolvedor backend apaixonado por tecnologia e programação.
+🌱
+Atualmente, estou no início de uma jornada incrível de aprendizado e compartilhamento de conhecimento por meio do Catalisa. 🤩
+
+## Meus objetivos
+
+- Quero ajudar a criar soluções inovadoras para a comunidade de desenvolvimento de software. 💡
+- Quero contribuir para que o mundo seja um lugar melhor para todos e inclusivo tecnologicamente ao maior número de pessoas possível. 🌎
+- Estou sempre procurando aprender e melhorar minhas habilidades. 📚
+
+## Como me contatar
+
+- Você pode me chamar de Gab. 😄
+- Me mande um [e-mail](gabrielcostainffo@gmail.com) ✉️
+- Me siga no [LinkedIn](https://www.linkedin.com/in/developer-gabriel) 👨‍💻
+### Vamos conversar sobre...
+
+- Desenvolvimento de software
+- Java
+- Spring Boot
+- Tecnologia
+- Programação
+
+Nos vemos por aí! 😊
